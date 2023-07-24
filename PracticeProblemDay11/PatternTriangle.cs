@@ -18,7 +18,7 @@ namespace PracticeProblemDay11
                 {
                     Console.Write("*");
                 }
-                Console.WriteLine();
+             
             }
         }
     }
